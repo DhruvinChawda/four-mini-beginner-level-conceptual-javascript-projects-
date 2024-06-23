@@ -3,7 +3,7 @@ four mini beginner level conceptual javascript projects for understanding for DO
 
 Output Snapshots :
 
-Numguessor covers many concepts as similar concept can be applied to build apps like todo -
+Numguessor covers many concepts as similar concept can be applied to build apps like todo :
 Numguessor :
 ![numguessor](https://github.com/DhruvinChawda/four-mini-beginner-level-conceptual-javascript-projects-/assets/108188838/17f590ff-d3c7-4289-97f4-9e9dfbfc29fd)
 
